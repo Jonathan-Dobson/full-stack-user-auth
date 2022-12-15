@@ -19,7 +19,7 @@
   "homepage": "https://github.com/fromjdobson/full-stack-user-auth#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-jwt": "^5.3.1",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.7.7",
